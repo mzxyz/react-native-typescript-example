@@ -5,11 +5,13 @@
     "tslint-react",
     "tslint-config-prettier"
   ],
-  "jsRules": {},
+  "rulesDirectory": [
+    "tslint-plugin-prettier"
+  ],
   "rules": {
+    "prettier": true,
     "interface-name": false,
     "jsx-no-lambda": false,
-    "object-literal-sort-keys": false,
-    "quotemark": [true, "single", "jsx-double"]
+    "object-literal-sort-keys": false
   }
 }
