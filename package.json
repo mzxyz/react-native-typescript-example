@@ -25,6 +25,7 @@
     "metro-react-native-babel-preset": "^0.53.1",
     "prettier": "^1.16.4",
     "react-test-renderer": "16.8.3",
+    "set-value": "^3.0.1",
     "ts-jest": "^24.0.0",
     "tslint": "^5.14.0",
     "tslint-config-prettier": "^1.18.0",
